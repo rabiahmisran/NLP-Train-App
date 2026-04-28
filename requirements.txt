@@ -1,2 +1,6 @@
 streamlit
 pandas
+re
+nltk
+stopwords
+SentimentIntensityAnalyzer
