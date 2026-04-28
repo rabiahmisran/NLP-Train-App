@@ -1,6 +1,5 @@
 streamlit
 pandas
-re
+scikit-learn
+matplotlib
 nltk
-stopwords
-SentimentIntensityAnalyzer
