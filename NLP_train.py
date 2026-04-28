@@ -1,5 +1,5 @@
 # Save the Streamlit app code to a file
-with open('app.py', 'w') as f:
+with open('NLP_train.py', 'w') as f:
     f.write("""
 import streamlit as st
 import pandas as pd
